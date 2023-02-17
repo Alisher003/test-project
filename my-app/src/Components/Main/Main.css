@@ -1,0 +1,122 @@
+.main {
+  position: absolute;
+  width: 1330px;
+  height: 938px;
+  padding-top: 892px;
+  margin: 0;
+  /* background-color: #F6F8FC; */
+}
+
+.main__desc {
+  width: 375px;
+  height: 50px;
+  margin-left: 500px;
+  top: 892px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 50px;
+  text-align: center;
+  color: #1D2328;
+}
+
+.courses-list {
+  padding: 10px;
+  align-items: center;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.courses-item {
+  width: 417px;
+  height: 402px;
+  margin: 0 0 24px 18px;
+  left: 746px;
+  padding-left: 24px;
+  padding: 40px;
+  top: 982px;
+  border-radius: 30px;
+}
+
+.corses-item__btn {
+  flex-direction: row;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  border-color: transparent;
+  color: #fff;
+  align-items: center;
+  padding: 9px 16px 9px 12px;
+  width: 179px;
+  height: 36px;
+  left: 335px;
+  background: #022E96;
+  border-radius: 30px;
+}
+
+.corses-item__btn-two {
+  flex-direction: row;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  border-color: transparent;
+  color: #1D2328;
+  align-items: center;
+  padding: 9px 16px 9px 12px;
+  width: 179px;
+  height: 36px;
+  left: 335px;
+  background: #FFF3A1;
+  border-radius: 30px;
+}
+
+.courses-text {
+  width: 137px;
+  height: 76px;
+  font-family: 'Nekst-SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+}
+
+.courses__item-desc-one {
+  width: 212px;
+  height: 44px;
+  margin-top: 112px;
+  font-family: 'Nekst-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.courses__item-desc-two {
+  width: 281px;
+  height: 22px; 
+  font-family: 'Nekst-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.corses-nav__img {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  padding-bottom: 10px;
+  margin: 0 114px;
+}
+
+.corses-item__btnImg {
+  margin: 9px;
+}

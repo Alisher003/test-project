@@ -1,17 +1,17 @@
-import '../Landingpage/Landingpage.css';
+// import '../Landingpage/Landingpage.css';
 
-import BgVido from "../../Assets/Media/video.mp4";
+// import BgVido from "../../Assets/Media/video.mp4";
 
-function Landingpage () {
-  return ( 
-    <div className='landingpage'>
+// function Landingpage () {
+//   return ( 
+//     <div className='landingpage'>
 
-      <video src='{BgVido}' autoPlay muted loop className='vido-bg'/>
-      <div className='navbar'>
+//       <video src={BgVido} autoPlay muted loop className='vido-bg'/>
+//       <div className='navbar'>
 
-      </div>
-    </div>
-  )
-}
+//       </div>
+//     </div>
+//   )
+// }
 
-export default Landingpage;
+// export default Landingpage;
