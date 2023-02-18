@@ -1,0 +1,135 @@
+
+.comments-nav {
+  position: absolute;
+  left: 57px;
+  top: 3229px;
+}
+
+.comments-nav__headingTop {
+  padding: 14px 24px;
+  width: 107px;
+  height: 50px;
+  color: #ffffff;
+  margin-left: 600px;
+  background: #23064B;
+  border-radius: 10px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.comments-nav__heading {
+  width: 544px;
+  height: 50px;
+  margin-left: 400px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 50px;
+  text-align: center;
+  color: #1D2328;
+}
+
+.comments-list {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.comments-list__item {
+  padding: 0;
+  margin: 23px;
+}
+
+.comments-list-box {
+  position: absolute;
+  padding: 24px 0px 24px 24px;
+  width: 267px;
+  height: 99px;
+  top: 600px;
+  margin: 0px 0px 0px -40px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 64.9135px 85.0057px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(4.25029px);
+}
+
+.comments-list-box__heading {
+  padding: 0;
+  margin: 0;
+  width: 149px;
+  height: 26px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  color: #060919;
+}
+
+
+.comments-list-box__desc {
+  padding: 0;
+  margin-top: 10px;
+  width: 198px;
+  height: 17px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #767676;
+}
+
+/* INFO */
+
+.comments-info {
+  position: absolute;
+  display: flex;
+  width: 1148px;
+  height: 701.58px;
+  left: 168px;
+  top: 4022px;
+  
+}
+
+.comments-info__img {
+  /* position: absolute; */
+  width: 488px;
+  height: 565px;
+  left: 0px;
+  top: 0px;
+}
+
+.comments-info-nav {
+  padding: 0;
+  margin: 40px 110px;
+}
+
+.comments__info__heading {
+  width: 543px;
+  height: 100px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 50px;
+  color: #1D2328;
+
+}
+
+
+.comments__info__descOne {
+  width: 449px;
+  height: 135px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #1D2328;
+}   

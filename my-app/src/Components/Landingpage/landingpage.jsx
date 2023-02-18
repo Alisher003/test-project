@@ -1,4 +1,4 @@
-// import '../Landingpage/Landingpage.css';
+// import './landingpage.css';
 
 // import BgVido from "../../Assets/Media/video.mp4";
 
@@ -6,10 +6,8 @@
 //   return ( 
 //     <div className='landingpage'>
 
-//       <video src={BgVido} autoPlay muted loop className='vido-bg'/>
-//       <div className='navbar'>
+//       <video  className='vido-bg' src={BgVido} autoPlay muted loop/>
 
-//       </div>
 //     </div>
 //   )
 // }

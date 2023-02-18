@@ -1,0 +1,73 @@
+
+.responsibilities {
+  position: absolute;
+  top: 1902px;  
+  height: 524px;
+  padding: 0;
+  margin: 0;
+}
+
+.responsibilities-heading {
+  width: 134px;
+  height: 50px;
+  padding: 14px 24px;
+  margin: 20px 0px;
+  margin-left: 600px;
+  color: #FFFFFF;
+  background: #23064B;
+  border-radius: 10px;
+}
+
+.teachers-list {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  padding-left: 70px;
+  margin: 0;
+}
+
+.teachers-list__item {
+  width: 289px;
+  height: 328px;
+  padding: 0;
+  margin: 10px;
+}
+
+.teachers-list-box {
+  position: absolute;
+  padding: 24px;
+  width: 267px;
+  height: 99px;
+  top: 340px;
+  margin: 0px 0px 0px -40px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 64.9135px 85.0057px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(4.25029px);
+}
+
+.teachers-list-box__heading {
+  width: 219px;
+  margin: 0;
+  padding: 0;
+  height: 26px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #060919;
+}
+
+.teachers-list-box__desc {
+  width: 192px;
+  height: 17px;
+  padding: 0;
+  margin: 8px 0px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #767676;
+}
