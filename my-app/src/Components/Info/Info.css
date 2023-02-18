@@ -1,0 +1,100 @@
+.info-top {
+  position: absolute;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  margin-left: 25px;
+  width: 1290px;
+  height: 465px;
+  top: 4690px;
+  background: #2726E3;
+  border-radius: 30px;
+}
+
+.info-top-box {
+  margin-left: 70px;
+  margin-bottom: 240px;
+  width: 387px;
+  height: 120px;
+}
+
+.info-top-box__headeing {
+  padding: 0;
+  width: 387px;
+  height: 120px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  color: #FFFFFF;
+
+
+}
+
+.info-top-box__desc {
+  margin-top: 20px;
+  padding: 0;
+  width: 499px;
+  height: 54px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #FFFFFF;
+}
+
+.info-top-box__link {
+  text-decoration: none;
+  position: absolute;
+  margin-top: 30px;
+  color: #FFFFFF;
+  padding: 16px 20px 16px 50px;
+  width: 235px;
+  height: 51px;
+  background: #001847;
+  border-radius: 20px;
+}
+
+
+/* INFP MAIN */
+
+.info-main {
+  display: flex;
+  position: absolute;
+  height: 464px;
+  left: 55px;
+  top: 5234px;
+  margin: 0;
+  padding: 0;
+}
+
+.info-main-box {
+  padding: 0;
+  /* padding-left: 30px; */
+}
+
+.info-main-box__heading {
+  width: 540px;
+  height: 150px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 50px;
+  color: #1D2328;
+}
+
+.info-main-box-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.info-main-box-list__item {
+  width: 662px;
+  height: 137px;
+  left: 722px;
+  border-radius: 30px;
+}
