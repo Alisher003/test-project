@@ -1,0 +1,139 @@
+.footer {
+  position: absolute;
+  width: 100%;
+  margin-top: 7250px;
+  background: #FFFFFF;
+}
+
+.footer__desc {
+  width: 404px;
+  height: 24px;
+  margin-left: 35%;
+  font-family: 'Nekst-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #1D2328;
+  opacity: 0.7;
+}
+
+.footer-top {
+  display: flex;
+  margin: 63px 55px;
+}
+
+.footer-top-left {
+  width: 190px;
+  height: 71px;
+  left: 55px;
+}
+
+.footer-top-left__img {
+  width: 59px;
+  margin-left: 80px;
+  height: 67px;
+  margin-bottom: 20px;
+}
+
+.footer-top-left__imgOne {
+  width: 190px;
+  height: 71px;
+}
+
+.footer-top-list {
+  padding: 0;
+  align-items: center;
+  margin: 0;
+  margin-bottom: 20px;
+  list-style: none;
+  display: flex;
+  margin-left: 86px;
+}
+
+.footer-top-list__item {
+  width: 170px;
+  height: 170px;
+  margin: 0 33px;
+}
+
+.footer-top-list__item:hover {
+  opacity: 0.6;
+}
+
+.footer-right {
+  margin-top: 20px;
+}
+
+
+.footer-right-list {
+  list-style: none;
+  display: flex;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.footer-right-list__item {
+  padding-left: 10px;
+}
+
+.footer-right-list__item:hover {
+  opacity: 0.6;
+}
+
+.footer-right__link {
+  text-decoration: none;
+  width: 96px;
+  height: 20px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+  color: #1D2328;
+}
+
+.footer-iconImg {
+  padding: 10px;
+  width: 32px;
+  height: 32px;
+  background: #E9E9EA;
+  border-radius: 10px;
+}
+
+.footer-right-box {
+  display: flex;
+  margin-top: 20px;
+  box-sizing: border-box;
+  position: absolute;
+  width: 295px;
+  height: 64px;
+  padding: 12px 16px 12px 16px;
+  border: 1px solid #545454;
+  border-radius: 15px;
+}
+
+.footer-right-box__desc {
+  width: 207px;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #1D2328;
+}
+
+.footer-right-box__img {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  padding: 10px;
+  top: 5px;
+  left: 230px;
+  background: #E9E9EA;
+  border-radius: 10px;
+}

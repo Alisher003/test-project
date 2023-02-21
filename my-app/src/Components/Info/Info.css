@@ -70,14 +70,12 @@
   padding: 0;
 }
 
-.info-main-box {
-  padding: 0;
-  /* padding-left: 30px; */
-}
+ 
 
 .info-main-box__heading {
   width: 540px;
   height: 150px;
+  margin-left: 60px;
   font-family: 'Nekst-Bold';
   font-style: normal;
   font-weight: 700;
@@ -94,7 +92,11 @@
 
 .info-main-box-list__item {
   width: 662px;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 10px;
   height: 137px;
-  left: 722px;
+  border-radius: 30px;  
+  background: #FFFFFF;
   border-radius: 30px;
 }

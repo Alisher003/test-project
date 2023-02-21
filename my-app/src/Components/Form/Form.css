@@ -1,0 +1,94 @@
+.form {
+  position: absolute;
+  width: 1290px;
+  display: flex;
+  height: 369px;
+  left: 30px;
+  top: 6850px;
+  background: #2726E3;
+  border-radius: 30px;
+}
+
+.form-left {
+  position: absolute;
+  top: -40px;
+  width: 509px;
+  padding: 64px;
+  height: 241px;
+}
+
+.form-left__heading {
+  width: 446px;
+  height: 120px;
+  font-family: 'Nekst-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  color: #FFFFFF;
+}
+
+.form-left__desc {
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  width: 509px;
+  height: 81px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;  
+  color: #FFFFFF;
+  
+}
+
+
+.form-right {
+  position: absolute;
+  padding: 40px 32px;
+  width: 550px;
+  height: 313px;  
+  left: 700px;
+  top: 30px;
+  background: #FFFFFF;
+  border-radius: 20px;
+}
+
+.form-right__inputText {
+  box-sizing: border-box;
+  width: 486px;
+  height: 65px;
+  background: #FFFFFF;
+  border: 1px solid #E8E8E8;
+  border-radius: 20px;
+}
+
+.form-right__inputNumber {
+  margin-top: 12px;
+  box-sizing: border-box;
+  width: 486px;
+  height: 65px;
+  background: #FFFFFF;
+  border: 1px solid #002772;
+  border-radius: 20px;
+}
+
+.form-right__link {
+  position: absolute;
+  padding: 20px 0;
+  text-decoration: none;
+  width: 486px;
+  font-family: 'Nekst-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #FFFFFF;
+  text-shadow: 0px 1px 2px rgba(255, 255, 255, 0.09);
+  margin-top: 40px;
+  height: 51px;
+  background: linear-gradient(0deg, #2726E3, #2726E3), #FFFFFF;
+  border-radius: 20px;
+}
